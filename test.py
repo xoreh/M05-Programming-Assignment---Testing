@@ -1,6 +1,6 @@
 #Jordy Jordan
 #test.py
-#Where to Write the Test
+#Executing Your First Test
 
 import unittest
 from my_sum import sum
